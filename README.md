@@ -4,7 +4,11 @@ This is a responsive landing page template for a fictional creative agency, buil
 
 **🚀 [Live Demo](https://karimmahmoud44.github.io/leon-landing-page/) 🚀**
 
-![Project Screenshot](./images/leon-screenshot.png)
+<details>
+  <summary>Click to view the full page screenshot</summary>
+  <br>
+  <img src="./images/leon-screenshot.png" alt="Full page screenshot of Leon project">
+</details>
 
 ---
 
